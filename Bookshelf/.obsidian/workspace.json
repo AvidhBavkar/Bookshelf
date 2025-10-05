@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "a54468b83e7199fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "877646e4dd3efe12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fccf76729942269",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f135706aed3d5719",
+    "type": "split",
+    "children": [
+      {
+        "id": "099a227b0c257622",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6348c09190aa98b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b44397b10cd4b2a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a424b08430ac20bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "638ea056e978f1d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2505f2e9b6ec164a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e37fcb446565997",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0bf47ed382886347",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/PaperTemplate_V1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PaperTemplate_V1"
+            }
+          },
+          {
+            "id": "f174dc81a03d0c03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e977637cefef8cf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/PaperTemplate_V1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PaperTemplate_V1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6348c09190aa98b5",
+  "lastOpenFiles": [
+    "Papers/Hendricks2019_pyCycleToolEfficient.md",
+    "Authors/Eric S. Hendricks.md",
+    "Authors/Justin S. Gray.md",
+    "Authors",
+    "Topics/Cycle Code.md",
+    "cycle-code.md",
+    "Papers/@Hendricks2019_pyCycleToolEfficient.md",
+    "Papers/hendricksPyCycleToolEfficient2019.md",
+    "Templates/Paper_Template_V1.md",
+    "Templates/PaperTemplate_V1.md",
+    "Papers/_2019_pyCycle.md",
+    "Papers/hendricksPyCycleToolEfficient2019_2019_pyCycle.md",
+    "Papers/Eric S. Hendricks, Justin S. Gray_2019_pyCycle.md",
+    "Papers/_2019_.md",
+    "Papers/hendricksPyCycleToolEfficient2019 - pyCycle_ A Tool for Efficient Optimization of Gas Turbine Engine Cycles.md",
+    "Welcome.md",
+    "Topics",
+    "Templates",
+    "Papers"
+  ]
+}

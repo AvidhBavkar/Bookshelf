@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "{{citekey}}",
+  "literatureNoteFolder": "Papers",
+  "literatureNoteContentTemplate": "# Metadata:\nTitle: {{title}}\nAuthors: {{authorString}}\nYear: {{year}}\nCiteKey: {{citekey}}\nZotero_Link: {{zoteroSelectURI}}\nURL: {{URL}}\n\n\n# Abstract\n{{abstract}}\n\n# My Notes\n- \n\n# Key Concepts\n- \n\n# Related Topics\n- [[ ]]\n\n# Reference\n[@{{citekey}}]\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "C:\\Users\\abavkar\\Code\\Obsidian_Bookshelf\\ZotLibBIB.bib"
+}
