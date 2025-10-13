@@ -1,1 +1,6 @@
-{}
+{
+  "userIgnoreFilters": [
+    "Authors/"
+  ],
+  "attachmentFolderPath": "Images"
+}

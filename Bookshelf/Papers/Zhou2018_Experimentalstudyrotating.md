@@ -6,9 +6,9 @@ CiteKey: Zhou2018_Experimentalstudyrotating
 Zotero_Link: zotero://select/items/@Zhou2018_Experimentalstudyrotating
 URL: https://linkinghub.elsevier.com/retrieve/pii/S009457651830479X
 
-
+[[Pressure Gain Combustion]]
 # Abstract
-The research on rotating detonation turbine engine is attracting much attention in recent years. In this study, experiments have been performed on a structure combining a rotating detonation combustor and an axial-flow turbine to investigate the propagation characteristics of the hydrogen-air rotating detonation wave. The stable rotating detonation wave is successfully initiated using the spark plug and pre-detonator, and there is still a velocity deficit of about 20% relative to the Chapmane-Jouguet value. There is a formation process for the stable detonation wave, and the formation time for the pre-detonator is far less than the spark plug, however the final state is independent on the ignition device. The rotating detonation wave successively appears the two-wave state with a same direction, the two-peak wave state, and the state of strong–weak alternation during the formation process. Finally, only one stable detonation wave is formed in the chamber and propagates until the operation off.
+The research on rotating detonation turbine engine is attracting much attention in recent years. In this study, experiments have been performed on a structure combining a [[Rotating Detonation]] combustor and an axial-flow turbine to investigate the propagation characteristics of the hydrogen-air rotating detonation wave. The stable rotating detonation wave is successfully initiated using the spark plug and pre-detonator, and there is still a velocity deficit of about 20% relative to the Chapmane-Jouguet value. There is a formation process for the stable detonation wave, and the formation time for the pre-detonator is far less than the spark plug, however the final state is independent on the ignition device. The rotating detonation wave successively appears the two-wave state with a same direction, the two-peak wave state, and the state of strong–weak alternation during the formation process. Finally, only one stable detonation wave is formed in the chamber and propagates until the operation off.
 
 # My Notes
 - ![[Pasted image 20251010094001.png]]

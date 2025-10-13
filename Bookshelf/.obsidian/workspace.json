@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "27a7f594674b1982",
+        "id": "69cac04522970aea",
         "type": "tabs",
         "children": [
           {
-            "id": "a1d1681175b93fe6",
+            "id": "2d6baeebb4dd1d50",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20251013101219.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251013101219"
             }
           }
         ]
@@ -164,29 +166,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1d1681175b93fe6",
+  "active": "2d6baeebb4dd1d50",
   "lastOpenFiles": [
-    "Topics/Cycle Code.md",
-    "OpenMDAO.md",
-    "Papers/Zhou2018_Experimentalstudyrotating.md",
-    "Authors/Shuai Li.md",
+    "2025-10-13.md",
+    "Images/Pasted image 20251013101219.png",
+    "Papers/BicalhoCivinellideAlmeida2018_MultirowPerformanceAeroelastic.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Authors/Victor Bicalho Civinelli de Almeida.md",
+    "Authors/Daokun Liu.md",
+    "Images/Pasted image 20251013094235.png",
+    "Topics/Blisks.md",
+    "Images/Pasted image 20251013100843.png",
+    "Images/Pasted image 20251013100808.png",
+    "Images/Pasted image 20251013100550.png",
+    "Images/Pasted image 20251013100549.png",
+    "Images/Pasted image 20251013100215.png",
+    "Images/Pasted image 20251013095627.png",
+    "Images/Pasted image 20251013094851.png",
+    "Images/Pasted image 20251013094141.png",
     "Papers/Hendricks2019_pyCycleToolEfficient.md",
-    "Images",
-    "Images/Pasted image 20251010094001.png",
+    "Papers/Zhou2018_Experimentalstudyrotating.md",
+    "Topics/Unsteady Damping.md",
+    "Authors/Dieter Peitsch.md",
+    "Authors/Changsheng Zhou.md",
+    "Authors/Hu Ma.md",
+    "Authors/Shuai Li.md",
+    "Authors/Yuan Ma.md",
+    "Authors/Shengbing Zhou.md",
     "Authors/Justin S. Gray.md",
     "Authors/Eric S. Hendricks.md",
+    "Techniques",
+    "Topics/Pressure Gain Combustion.md",
+    "Authors/Shuai Li.md",
+    "Topics/Cycle Code.md",
+    "OpenMDAO.md",
+    "Images",
     "Authors",
     "cycle-code.md",
     "Papers/@Hendricks2019_pyCycleToolEfficient.md",
     "Papers/hendricksPyCycleToolEfficient2019.md",
     "Templates/Paper_Template_V1.md",
     "Templates/PaperTemplate_V1.md",
-    "Papers/_2019_pyCycle.md",
-    "Papers/hendricksPyCycleToolEfficient2019_2019_pyCycle.md",
-    "Papers/Eric S. Hendricks, Justin S. Gray_2019_pyCycle.md",
-    "Papers/_2019_.md",
-    "Papers/hendricksPyCycleToolEfficient2019 - pyCycle_ A Tool for Efficient Optimization of Gas Turbine Engine Cycles.md",
-    "Welcome.md",
     "Topics",
     "Templates",
     "Papers"

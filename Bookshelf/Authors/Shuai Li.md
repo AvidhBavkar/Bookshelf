@@ -1,1 +1,0 @@
-Guiyang Aero Engine Design Research Institute, Guiyang, China
