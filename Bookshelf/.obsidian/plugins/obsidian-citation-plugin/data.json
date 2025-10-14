@@ -2,7 +2,7 @@
   "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "{{citekey}}",
   "literatureNoteFolder": "Papers",
-  "literatureNoteContentTemplate": "# Metadata:\nTitle: {{title}}\nAuthors: {{authorString}}\nYear: {{year}}\nCiteKey: {{citekey}}\nZotero_Link: {{zoteroSelectURI}}\nURL: {{URL}}\n\n\n# Abstract\n{{abstract}}\n\n# My Notes\n- \n\n# The Op-Ed\n- \n\n# Follow-Ups\n- [[ ]]\n\n# Reference\n[@{{citekey}}]\n",
+  "literatureNoteContentTemplate": "# Summary\n\n*****\n# Metadata:\nTitle: {{title}}\nAuthors: {{authorString}}\nYear: {{year}}\nCiteKey: {{citekey}}\nZotero_Link: {{zoteroSelectURI}}\nURL: {{URL}}\n### Tags:\n\n\n# Abstract\n{{abstract}}\n\n# Goal/Question\n-\n\n# Methodology\n-\n\n# Results\n-\n\n# Conclusions\n- \n\n# The Op-Ed\n- \n\n# Follow-Ups\n- [[ ]]\n\n# Reference\n[@{{citekey}}]\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
   "citationExportPath": "C:\\Users\\abavkar\\Code\\Obsidian_Bookshelf\\ZotLibBIB.bib"

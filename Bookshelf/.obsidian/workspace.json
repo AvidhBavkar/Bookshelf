@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "69cac04522970aea",
+        "id": "40f2d1e62f6b705b",
         "type": "tabs",
         "children": [
           {
-            "id": "2d6baeebb4dd1d50",
+            "id": "81157094ac149f67",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Rasheed2011_ExperimentalInvestigationsPerformance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rasheed2011_ExperimentalInvestigationsPerformance"
             }
           }
         ]
@@ -164,11 +168,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d6baeebb4dd1d50",
+  "active": "81157094ac149f67",
   "lastOpenFiles": [
+    "Images/Pasted image 20251014194458.png",
+    "Images/Pasted image 20251014194438.png",
+    "Papers/Zhou2018_Experimentalstudyrotating.md",
+    "Papers/Hendricks2019_pyCycleToolEfficient.md",
+    "Papers/Rasheed2011_ExperimentalInvestigationsPerformance.md",
+    "Topics/Pressure Gain Combustion.md",
+    "Topics/Mode Superposition Harmonic Analysis.md",
+    "Topics/Pulse Detonation Combustor - Turbine.md",
+    "Queue.md",
+    "Papers/BicalhoCivinellideAlmeida2018_MultirowPerformanceAeroelastic.md",
+    "Images/Pasted image 20251014143109.png",
+    "Topics/Unsteady Damping.md",
     "Images/Pasted image 20251013101219.png",
     "2025-10-13.md",
-    "Papers/BicalhoCivinellideAlmeida2018_MultirowPerformanceAeroelastic.md",
     "Untitled.canvas",
     "Untitled.base",
     "Authors/Victor Bicalho Civinelli de Almeida.md",
@@ -181,11 +196,6 @@
     "Images/Pasted image 20251013100549.png",
     "Images/Pasted image 20251013100215.png",
     "Images/Pasted image 20251013095627.png",
-    "Images/Pasted image 20251013094851.png",
-    "Images/Pasted image 20251013094141.png",
-    "Papers/Hendricks2019_pyCycleToolEfficient.md",
-    "Papers/Zhou2018_Experimentalstudyrotating.md",
-    "Topics/Unsteady Damping.md",
     "Authors/Dieter Peitsch.md",
     "Authors/Changsheng Zhou.md",
     "Authors/Hu Ma.md",
@@ -195,17 +205,12 @@
     "Authors/Justin S. Gray.md",
     "Authors/Eric S. Hendricks.md",
     "Techniques",
-    "Topics/Pressure Gain Combustion.md",
     "Authors/Shuai Li.md",
     "Topics/Cycle Code.md",
     "OpenMDAO.md",
     "Images",
     "Authors",
     "cycle-code.md",
-    "Papers/@Hendricks2019_pyCycleToolEfficient.md",
-    "Papers/hendricksPyCycleToolEfficient2019.md",
-    "Templates/Paper_Template_V1.md",
-    "Templates/PaperTemplate_V1.md",
     "Topics",
     "Templates",
     "Papers"

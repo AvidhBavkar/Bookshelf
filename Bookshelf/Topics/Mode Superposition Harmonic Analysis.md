@@ -1,0 +1,3 @@
+- [[Mode Superposition Harmonic Analysis]] employed:
+	- "Harmonic Analysis" - frequency response
+	- "Mode superposition" - instead of solving the full system, solver first finds the natural modes. Then combining these modes to response is approximated. I don't relaly know how yet.
