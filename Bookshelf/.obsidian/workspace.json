@@ -11,12 +11,10 @@
             "id": "2d6baeebb4dd1d50",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20251013101219.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251013101219"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -168,8 +166,8 @@
   },
   "active": "2d6baeebb4dd1d50",
   "lastOpenFiles": [
-    "2025-10-13.md",
     "Images/Pasted image 20251013101219.png",
+    "2025-10-13.md",
     "Papers/BicalhoCivinellideAlmeida2018_MultirowPerformanceAeroelastic.md",
     "Untitled.canvas",
     "Untitled.base",
