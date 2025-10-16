@@ -2,5 +2,6 @@
   "userIgnoreFilters": [
     "Authors/"
   ],
-  "attachmentFolderPath": "Images"
+  "attachmentFolderPath": "Images",
+  "alwaysUpdateLinks": true
 }

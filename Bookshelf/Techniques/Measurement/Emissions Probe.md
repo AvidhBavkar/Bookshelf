@@ -1,0 +1,1 @@
+"Sample probes used today are not designed to ingest the PDC exit flows. For these reasons, characterizing the emissions directly downstream at the exit of a PDC is very difficult." - [[Rasheed2011_ExperimentalInvestigationsPerformance]]

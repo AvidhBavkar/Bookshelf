@@ -27,7 +27,7 @@ The research on rotating detonation turbine engine is attracting much attention 
 	- Wave Velocity: 1.6 km/s
 	- “The pressures of shock waves are reduced by 64% after passing through the guide vane” (Zhou et al., 2018, p. 9)
 * Instro
-	* See above images, a few kulits and an "Ion Probe?"
+	* See above images, a few kulits and an [[Ion Probe]]?"
 		* “The ion probe (I1) with a same axial position to p1 is used to detect the ion concentration trend of reactants.” (Zhou et al., 2018, p. 8) "Ion Probe" what is this!
 	* 
 # The Op-Ed
