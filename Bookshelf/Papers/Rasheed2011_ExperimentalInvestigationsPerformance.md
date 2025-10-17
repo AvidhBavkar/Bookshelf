@@ -1,4 +1,4 @@
-status:: to_read  
+
 # Summary
 An off-the-shelf 1000HP turbine is put downstream of a can-annular 8 tube pulsed-detonator. The uncertainty in turbine efficiency is high (+-10%) but no measurable impact was observed. The overall efficiency of the rig (combustor + turbine) is suggested to increase by ~4%
 ***** 
