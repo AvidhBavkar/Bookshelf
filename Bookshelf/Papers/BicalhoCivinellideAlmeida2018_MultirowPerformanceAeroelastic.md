@@ -13,6 +13,8 @@ URL:
 
 ### Tags/Topic
 #Aeroelasticity #PGC #Numerical
+[[Aerodamping]]
+
 # Abstract
 Aiming at radical increase of gas turbine thermal efficiency, novel [[Pressure Gain Combustion]] (PGC) processes are being investigated. These inherently unsteady techniques include pulse/rotating detonation, shockless explosion and wave rotor combustion. They all introduce periodic disturbances on the flow dynamics, which strongly challenge performance and aeroelastic design. The current work appraises to which degree this additional unsteadiness affects an industrial high pressure compressor (HPC). Single and multirow unsteady computational fluid dynamics and aeroelastic analyses characterize how the induced disturbances travel through the system, driving a departure from the steady state design. Assessments with one to four rows (two stages) delineate how farther upstream the disturbance dynamics must be considered by the performance and aeroelastic designers. To that end, unsteady damping as well as maximum stresses are evaluated. The nonlinear harmonic balance method is employed to determine the aerodynamic work and corresponding damping. Modal forcing from unsteady time-resolved runs is then projected into the blade surface. The structural response is obtained through harmonic response analyses, in a decoupled fluid-structure interaction (FSI) fashion.
 
